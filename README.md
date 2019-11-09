@@ -1,2 +1,2 @@
 # basic-web-crawler
- A web crawler using Python main library
+ A web crawler using Python standard library.
