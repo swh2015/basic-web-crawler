@@ -1,9 +1,6 @@
 # graph.py contains the class which represents the website graph, with nodes
 # and edges.
 
-from __future__ import print_function
-
-
 class WebsiteGraph:
     def __init__(self):
         self.nodes = {}
