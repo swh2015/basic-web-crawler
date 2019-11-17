@@ -1,9 +1,5 @@
 # loggers.py defines different Logger objects, which are used to control logging
 # behaviors
-
-from __future__ import print_function
-
-
 class SilentCrawlerLogger:
     def __init__(self, crawler):
         self.crawler = crawler
